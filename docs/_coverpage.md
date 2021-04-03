@@ -8,5 +8,5 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/ANTGOMEZ/bi-docs/)
 [Get Started](index.html)
