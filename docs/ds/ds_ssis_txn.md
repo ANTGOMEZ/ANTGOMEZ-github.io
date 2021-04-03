@@ -7,5 +7,5 @@
 **Executor Type:** SQL Job  
 ---
 
-## Details: 
+## Details  
   Lorem Ipsum  
