@@ -1,29 +1,40 @@
 # <u>Raw Transaction DataSource</u>
 
-**Description:** This the desc.  
-**Repo:** https://github.com/  
-**SSIS Catalog:** EBISQL105.RawTxnExport_Updated  
-**Executor:** RawTxnExport_Updated  
-**Executor Type:** SQL Job  
+<table style="width:100%">
+  <td style="width:50%">
+    <strong>Description: </strong> This the desc. <br>
+    <strong>Repo: </strong> https://github.com/ <br>
+    <strong>SSIS Catalog: </strong> EBISQL105.RawTxnExport_Updated  <br>
+    <strong>Executor: </strong> RawTxnExport_Updated <br>
+    <strong>Executor Type: </strong> SQL Job  
+  </td>
+  <td style="width:50%;text-align: left;">
+  <strong>Create Date: </strong> 04-01-2021 <br>
+    <strong>Author: </strong> ACG <br>
+    <strong>Owner: </strong> BI Supercells   <br>
+    <strong>Contact: </strong> <a href="mailto:supercells@ebsco.com">Supercells</a> 
+  </td>  
+</table>
+
 ---
 
-## Details  
+## Details  {docsify-ignore}
   Lorem Ipsum  
   
-## Details1  
+## Details1  {docsify-ignore}
   Lorem Ipsum
   
-## Details2  
+## Details2  {docsify-ignore}
   Lorem Ipsum
   
-## Details3  
+## Details3  {docsify-ignore}
   Lorem Ipsum
   
-## Details4 
+## Details4 {docsify-ignore}
   Lorem Ipsum
 
-## Details5  
+## Details5  {docsify-ignore}
   Lorem Ipsum
   
-## Details6  
+## Details6  {docsify-ignore}
   Lorem Ipsum
